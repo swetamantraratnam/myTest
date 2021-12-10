@@ -3,7 +3,6 @@
 ## Screenshots
 
 ### Primary
-![Screenshot1](screenshots/primary.png)
 
 <img src="./screenshots/primary.png" alt="drawing" width="200"/>|<img src="screenshots/primary_dm.png" alt="drawing" width="200"/>|
 
